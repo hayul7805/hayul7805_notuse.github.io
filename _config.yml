@@ -20,7 +20,7 @@ title                    : "Hayul's Tech blog"
 title_separator          : "-"
 subtitle                 : "NLP note" # site tagline that appears below site title in masthead
 name                     : "Hayul Park"
-description              : "NLP 연구자"
+description              : "NLP researcher"
 url                      : "https://hayul7805.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "hayul Park"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "NLP를 공부합니다"
+  bio              : "Learning NLP"
   location         : "Republic of Korea"
   email            :
   links:
